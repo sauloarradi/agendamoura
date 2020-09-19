@@ -44,14 +44,8 @@ CREATE TABLE `tbcontatos` (
 --
 
 INSERT INTO `tbcontatos` (`idContato`, `nomeContato`, `telefoneContato`, `enderecoContato`, `bairroContato`, `cidadeContato`, `estadoContato`, `cepContato`) VALUES
-(1, 'Saulo Diego Gomes Arradi', '(14) 996602644', 'Francisco Alves, 158', 'Jardim São José', 'Barra Bonita', 'SP', 17340000),
-(9, 'Italo Moura', '(14) 99745-5488', 'Avenida República Argentina, 664', 'Novo Mundo', 'Curitiba', 'PR', 81050001),
-(12, 'Walacy Hermogenes Guedes', '(14) 99785-4569', 'Rua Visconde do Rio Branco, 5', 'Vila', 'Jaú', 'SP', 17340000),
-(13, 'Manoel Aranda Neto', '(14) 99785-4565', 'Rua Visconde do Rio Branco, 42', 'Centro', 'Jaú', 'SP', 17201510),
-(38, 'Marilza Silva', '(14) 99858-4578', 'Avenida República Argentina, 35', 'Novo Mundo', 'Curitiba', 'PR', 81050001),
+(1, 'Saulo Diego Gomes Arradi', '(14) 996602624', 'Francisco Alves, 158', 'Jardim São José', 'Barra Bonita', 'SP', 17340000),
 (45, 'JN Moura Informática', '(16) 3303-6420', 'Rua Doutor Aldo Cariani, 733', 'Jardim Morumbi', 'Araraquara', 'SP', 14801470),
-(54, 'Gabriel Menino', '(11) 98745-3258', 'Rua Palestra Itália, 10', 'Perdizes', 'São Paulo', 'SP', 5005030);
-
 --
 -- Índices para tabelas despejadas
 --
