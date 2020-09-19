@@ -8,11 +8,11 @@
 <form action="index.php?menuop=inserir-contato" method="post" onsubmit="return validar()" enctype="multipart/form-data">
     
     <div class="input-group mb-3" style="width: 50%">
-    <div class="input-group-prepend">
-        <span class="input-group-text" id="inputGroup-sizing-default">Nome</span>
-    </div>
-    <input type="text" name="nomeContato" class="form-control" id="nomeContato" aria-describedby="inputGroup-sizing-default">
-    <div id="errosn"></div>
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="inputGroup-sizing-default">Nome</span>
+        </div>
+            <input type="text" name="nomeContato" class="form-control" id="nomeContato" aria-describedby="inputGroup-sizing-default">
+            <div id="errosn"></div>
     </div>
     
     <div class="input-group mb-3" style="width: 50%">
