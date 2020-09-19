@@ -44,8 +44,6 @@ CREATE TABLE `tbcontatos` (
 --
 
 INSERT INTO `tbcontatos` (`idContato`, `nomeContato`, `telefoneContato`, `enderecoContato`, `bairroContato`, `cidadeContato`, `estadoContato`, `cepContato`) VALUES
-(1, 'Saulo Diego Gomes Arradi', '(14) 996602624', 'Francisco Alves, 158', 'Jardim São José', 'Barra Bonita', 'SP', 17340000),
-(45, 'JN Moura Informática', '(16) 3303-6420', 'Rua Doutor Aldo Cariani, 733', 'Jardim Morumbi', 'Araraquara', 'SP', 14801470),
 --
 -- Índices para tabelas despejadas
 --
