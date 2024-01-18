@@ -30,7 +30,7 @@ Passo a passo para exibir os registros cadastrados:
 2. Acessar a página Contatos que encontra em uma aba no canto esquerdo superior da tela
 
 Passo a passo para localizar um contato registrado:
-1. 1. Abrir a página index.php
+1. Abrir a página index.php
 2. Acessar a página Contatos que encontra em uma aba no canto esquerdo superior da tela
 3. Clicar na barra de pesquisa localizada acima da tabela
 4. Digitar o nome(ou parte dele) ou id que deseja localizar
